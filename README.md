@@ -4,7 +4,9 @@
 
 **发布日期**：2026-11-07（北京时间）
 
-**插件发布页**：https://github.com/hkk1121/skkd9-login-plugin/releases/latest
+## 下载
+
+👉 **[点这里前往 Releases 发布页下载最新版](https://github.com/hkk1121/skkd9-login-plugin/releases/latest)**（安装包附件名为 `SKKD9-Login-Plugin.exe`）
 
 > **说明**：为整理发布记录，旧版本的历史发布与安装包附件将移除，仅保留当前最新插件包。本文档已整合首发以来的全部核心功能说明、操作指南与版本沿革，可作为完整的插件使用手册独立查阅。
 
