@@ -1,3 +1,5 @@
+[![下载最新版](https://img.shields.io/github/v/release/hkk1121/skkd9-login-plugin?label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=2ea44f)](https://github.com/hkk1121/skkd9-login-plugin/releases/latest)
+
 # 九号避难所登录插件 v1.2.10 发布说明
 
 **作者**：hkking（使用 AI 辅助制作 / vibe coding）
